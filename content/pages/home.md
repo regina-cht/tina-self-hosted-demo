@@ -1,7 +1,7 @@
 ---
 header: Get Started by editing app/page/
 logo:
-  url: /next.svg
+  url: /tina.svg
   alt: NextJS
 links:
   - header: Docs
