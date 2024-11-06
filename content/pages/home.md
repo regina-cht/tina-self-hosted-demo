@@ -1,5 +1,5 @@
 ---
-header: Get Started by editing app/page/
+header: Hola!
 logo:
   url: /tina.svg
   alt: NextJS
